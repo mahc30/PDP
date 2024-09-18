@@ -38,7 +38,7 @@ Solo es darle click al botón de fork en la esquina superior derecha [en github]
 Clonar repositorio desde sus propias cuentas.
 ```
 git clone https://github.com/<USUARIO_GITHUB>/PDP.git
-git checkout master
+git checkout main
 ```
 
 # 5. Abrir proyecto en IntelliJ
