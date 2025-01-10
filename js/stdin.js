@@ -33,8 +33,8 @@ https.get('https://www.upb.edu.co', (res) => {
     console.log(`Status Code UPB: ${res.statusCode}`);
 });
 
-https.get('https://www.google.com', (res) => {
-    console.log(`Status Code Google: ${res.statusCode}`);
+https.get('https://www.hinkpie.com', (res) => {
+    console.log(`Status Code Hinkpie: ${res.statusCode}`);
 });
 
 console.log("Recordemos que el código siempre se ejecuta de arriba para abajo\n\
