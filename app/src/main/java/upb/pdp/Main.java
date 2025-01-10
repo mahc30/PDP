@@ -1,18 +1,23 @@
 package upb.pdp;
 
-import upb.pdp.models.Animal;
-import upb.pdp.models.AnimalFactory;
+import upb.pdp.models.*;
 
 public class Main {
     public static void main(String[] args) {
 
-        Animal[] animals = new Animal[3];
+        Animal animal = new Animal("Eduardo", 4);
+        Perro perro = new Perro("Bolt", 5);
+        Gato gato = new Gato("Misifus", 8);
 
-        animals[0] = AnimalFactory.crearAnimal("Rufus");
-        animals[1] = AnimalFactory.crearAnimal(true, "Carlos", 5);
-        animals[2] = AnimalFactory.crearAnimal(false, "Alirio", 4);
-        for (Animal animal : animals) {
-            System.out.println(animal.toString());
-        }
+        System.out.println(animal.toString());
+        System.out.println(perro.toString());
+        System.out.println(gato.toString());
+
+        System.out.print("Animal: ");
+        animal.moverse();
+        System.out.print("Perro: ");
+        perro.moverse();
+        System.out.print("Gato: ");
+        gato.moverse();
     }
 }

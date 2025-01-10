@@ -29,4 +29,8 @@ public class Animal {
     public String toString() {
         return String.format("=======\nAnimal: %s\nEdad: %d\n=======", this.nombre, this.edad);
     }
+
+    public void moverse(){
+        System.out.println("Animal se Mueve");
+    }
 }

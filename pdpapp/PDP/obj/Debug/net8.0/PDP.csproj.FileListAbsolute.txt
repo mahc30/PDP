@@ -1,0 +1,15 @@
+C:\Arbeit\UPB\PDP\pdpapp\PDP\bin\Debug\net8.0\PDP.exe
+C:\Arbeit\UPB\PDP\pdpapp\PDP\bin\Debug\net8.0\PDP.deps.json
+C:\Arbeit\UPB\PDP\pdpapp\PDP\bin\Debug\net8.0\PDP.runtimeconfig.json
+C:\Arbeit\UPB\PDP\pdpapp\PDP\bin\Debug\net8.0\PDP.dll
+C:\Arbeit\UPB\PDP\pdpapp\PDP\bin\Debug\net8.0\PDP.pdb
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.AssemblyInfoInputs.cache
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.AssemblyInfo.cs
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.csproj.CoreCompileInputs.cache
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.sourcelink.json
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.dll
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\refint\PDP.dll
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.pdb
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\PDP.genruntimeconfig.cache
+C:\Arbeit\UPB\PDP\pdpapp\PDP\obj\Debug\net8.0\ref\PDP.dll
